@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Go",
+    "description": "Master Go basics",
+    "completed": false,
+    "created_at": "0001-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Test API",
+    "description": "Build cool stuff",
+    "completed": false,
+    "created_at": "2026-01-12T00:32:54.17495498+02:00"
+  }
+]
